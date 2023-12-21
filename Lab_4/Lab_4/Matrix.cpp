@@ -6,7 +6,7 @@
 #include <string>
 
 using namespace std;
-
+//Комментарий 
 Matrix::Matrix(string txt)
 {
 	int pis = 1;
