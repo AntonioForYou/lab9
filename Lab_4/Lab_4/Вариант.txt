@@ -1,0 +1,27 @@
+Numerical mathematics
+Gauss method for systems of linear equations.
+System:
+      -8       8       7      -7       1      -3 |      -33
+       8       3       6       2      -5       3 |      149
+      -8      -9      -7       5       7       7 |     -116
+       6      -2      -9      -5      -1       7 |       89
+       7      -3      -7      -6       2      -7 |      -14
+       5      -4       8      -7      -5       3 |      186
+Roots:
+       9      -1       6      -5      -6       8
+Finished.
+
+===================================================================================================
+
+Numerical mathematics
+Sweep method for systems of linear equations.
+System:
+      -1       1       0       0       0       0 |        2
+      -7      -2       5       0       0       0 |      -69
+       0      -6       5       4       0       0 |      -38
+       0       0       1       6      -1       0 |       26
+       0       0       0       6       5      -6 |       66
+       0       0       0       0       2       8 |       12
+Roots:
+       5       7      -4       6       6       0
+Finished.
